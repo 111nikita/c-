@@ -1,0 +1,16 @@
+C:\Users\Никита\source\repos\4\4\bin\Debug\net5.0\4.exe
+C:\Users\Никита\source\repos\4\4\bin\Debug\net5.0\4.deps.json
+C:\Users\Никита\source\repos\4\4\bin\Debug\net5.0\4.runtimeconfig.json
+C:\Users\Никита\source\repos\4\4\bin\Debug\net5.0\4.runtimeconfig.dev.json
+C:\Users\Никита\source\repos\4\4\bin\Debug\net5.0\4.dll
+C:\Users\Никита\source\repos\4\4\bin\Debug\net5.0\ref\4.dll
+C:\Users\Никита\source\repos\4\4\bin\Debug\net5.0\4.pdb
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.AssemblyInfo.cs
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.dll
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\ref\4.dll
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.pdb
+C:\Users\Никита\source\repos\4\4\obj\Debug\net5.0\4.genruntimeconfig.cache
