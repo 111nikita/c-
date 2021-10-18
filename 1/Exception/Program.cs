@@ -13,7 +13,7 @@ namespace Exception
             }
             catch
             {
-                Console.WriteLine("Исключение");
+                Console.WriteLine("IndexOutOfRangeException");
             }
         }
     }

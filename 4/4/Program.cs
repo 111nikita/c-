@@ -10,9 +10,13 @@ namespace task4
         {
             Console.WriteLine($"num = {num} str = {str}");
         }
-        public Parametr() { num = 1001; str = "I like Smells like teen spirit"; }
+        public void Action(int num, string str)
+        {
+            Console.WriteLine($" {num}  {str}");
+        }
+        public Parametr() { num = 1; str = "Кто прочитал, тот сдохнет"; }
 
-        public Parametr(string e) { num = 1488; str = e; }
+        public Parametr(string voskres) { num = 2; str = voskres; }
 
     }
 
@@ -20,10 +24,12 @@ namespace task4
     {
         static void Main(string[] args)
         {
-            Parametr F = new Parametr();
+            Parametr F = new();
             Parametr A = new("Кто прочитал, тот воскресе");
-            A.Action();
             F.Action();
+            A.Action();
+            F.Action(4, "Четыре в Японии число смерти");
+
         }
     }
 }
